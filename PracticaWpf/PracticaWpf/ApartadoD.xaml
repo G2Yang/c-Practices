@@ -1,0 +1,21 @@
+﻿<Window x:Class="PracticaWpf.ApartadoD"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticaWpf"
+        mc:Ignorable="d"
+        Title="ApartadoD" Height="450" Width="800">
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="0,29,0,39">
+        <DockPanel Width="275" Height="57" >
+            <Label Name="Etiqueta1" Target="{Binding ElementName=Texto1}"
+VerticalAlignment="Center">
+                <AccessText>_NHC:</AccessText>
+            </Label>
+            <TextBox Name="Texto1" Margin="10" FontSize="20" VerticalAlignment="Center"/>
+        </DockPanel>
+        <TreeView Height="277">
+            <TreeViewItem >a</TreeViewItem>
+        </TreeView>
+    </StackPanel>
+</Window>

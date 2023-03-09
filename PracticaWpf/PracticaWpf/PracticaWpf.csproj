@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="5510091.png" />
+    <None Remove="add-user.png" />
+    <None Remove="delete-user.png" />
+    <None Remove="etiqueta.png" />
+    <None Remove="exit.jpg" />
+    <None Remove="vista.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="5510091.png" />
+    <Resource Include="add-user.png" />
+    <Resource Include="delete-user.png" />
+    <Resource Include="etiqueta.png" />
+    <Resource Include="exit.jpg" />
+    <Resource Include="vista.png" />
+  </ItemGroup>
+
+</Project>
