@@ -1,0 +1,27 @@
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\Pt3c DataBase.exe
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\Pt3c DataBase.deps.json
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\Pt3c DataBase.runtimeconfig.json
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\Pt3c DataBase.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\Pt3c DataBase.pdb
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\Model.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.csproj.AssemblyReference.cache
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c_DataBase.Form1.resources
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.csproj.GenerateResource.cache
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.AssemblyInfoInputs.cache
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.AssemblyInfo.cs
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.csproj.CoreCompileInputs.cache
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.csproj.CopyComplete
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\refint\Pt3c DataBase.dll
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.pdb
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\Pt3c DataBase.genruntimeconfig.cache
+C:\Users\zhwu3724\source\repos\Pt3c DataBase\Pt3c DataBase\obj\Debug\net6.0-windows\ref\Pt3c DataBase.dll
